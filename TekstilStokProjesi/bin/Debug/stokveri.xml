@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Urunler>
+  <Urun>
+    <ID>1</ID>
+    <UrunAdı>Saksoni</UrunAdı>
+    <Adet>2600</Adet>
+    <Fiyat>150</Fiyat>
+    <Renk>Turuncu</Renk>
+    <GuncellenmeTarihi>1.01.2023 18:48:36</GuncellenmeTarihi>
+  </Urun>
+  <Urun>
+    <ID>2</ID>
+    <UrunAdı>Fresko</UrunAdı>
+    <Adet>1500</Adet>
+    <Fiyat>100</Fiyat>
+    <Renk>Gri</Renk>
+    <GuncellenmeTarihi>1.01.2023 18:48:24</GuncellenmeTarihi>
+  </Urun>
+  <Urun>
+    <ID>3</ID>
+    <UrunAdı>Etamin</UrunAdı>
+    <Adet>3200</Adet>
+    <Fiyat>95</Fiyat>
+    <Renk>Mavi</Renk>
+    <GuncellenmeTarihi>1.01.2023 18:43:04</GuncellenmeTarihi>
+  </Urun>
+  <Urun>
+    <ID>4</ID>
+    <UrunAdı>Vual</UrunAdı>
+    <Adet>1485</Adet>
+    <Fiyat>120</Fiyat>
+    <Renk>Kahverengi</Renk>
+    <GuncellenmeTarihi>1.01.2023 18:42:14</GuncellenmeTarihi>
+  </Urun>
+  <Urun>
+    <ID>5</ID>
+    <UrunAdı>Basma</UrunAdı>
+    <Adet>1200</Adet>
+    <Fiyat>80</Fiyat>
+    <Renk>Renkli</Renk>
+    <GuncellenmeTarihi>1.01.2023 18:42:37</GuncellenmeTarihi>
+  </Urun>
+  <Urun>
+    <ID>6</ID>
+    <UrunAdı>Kadife</UrunAdı>
+    <Adet>1230</Adet>
+    <Fiyat>110</Fiyat>
+    <Renk>Kahverengi</Renk>
+    <GuncellenmeTarihi>3.01.2023 00:42:53</GuncellenmeTarihi>
+  </Urun>
+  <Urun>
+    <ID>7</ID>
+    <UrunAdı>Akrilik</UrunAdı>
+    <Adet>1500</Adet>
+    <Fiyat>125</Fiyat>
+    <Renk>Kırmızı</Renk>
+    <GuncellenmeTarihi>3.01.2023 00:43:28</GuncellenmeTarihi>
+  </Urun>
+  <Urun>
+    <ID>8</ID>
+    <UrunAdı>Entari</UrunAdı>
+    <Adet>1225</Adet>
+    <Fiyat>20</Fiyat>
+    <Renk>Gri</Renk>
+    <GuncellenmeTarihi>2.07.2023 23:53:09</GuncellenmeTarihi>
+  </Urun>
+</Urunler>

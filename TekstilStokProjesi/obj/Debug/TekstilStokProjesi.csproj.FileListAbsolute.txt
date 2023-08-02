@@ -1,0 +1,73 @@
+C:\Users\MuratBayraktar\source\repos\TekstilStokProjesi\TekstilStokProjesi\bin\Debug\TekstilStokProjesi.exe.config
+C:\Users\MuratBayraktar\source\repos\TekstilStokProjesi\TekstilStokProjesi\bin\Debug\TekstilStokProjesi.exe
+C:\Users\MuratBayraktar\source\repos\TekstilStokProjesi\TekstilStokProjesi\bin\Debug\TekstilStokProjesi.pdb
+C:\Users\MuratBayraktar\source\repos\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.csproj.AssemblyReference.cache
+C:\Users\MuratBayraktar\source\repos\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\MuratBayraktar\source\repos\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.Form1.resources
+C:\Users\MuratBayraktar\source\repos\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.Properties.Resources.resources
+C:\Users\MuratBayraktar\source\repos\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.stok.resources
+C:\Users\MuratBayraktar\source\repos\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.csproj.GenerateResource.cache
+C:\Users\MuratBayraktar\source\repos\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.csproj.CoreCompileInputs.cache
+C:\Users\MuratBayraktar\source\repos\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.exe
+C:\Users\MuratBayraktar\source\repos\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.pdb
+C:\Users\90507\Masaüstü\TekstilStokProjesi-20221223T120253Z-001\TekstilStokProjesi\TekstilStokProjesi\bin\Debug\TekstilStokProjesi.exe.config
+C:\Users\90507\Masaüstü\TekstilStokProjesi-20221223T120253Z-001\TekstilStokProjesi\TekstilStokProjesi\bin\Debug\TekstilStokProjesi.exe
+C:\Users\90507\Masaüstü\TekstilStokProjesi-20221223T120253Z-001\TekstilStokProjesi\TekstilStokProjesi\bin\Debug\TekstilStokProjesi.pdb
+C:\Users\90507\Masaüstü\TekstilStokProjesi-20221223T120253Z-001\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.csproj.AssemblyReference.cache
+C:\Users\90507\Masaüstü\TekstilStokProjesi-20221223T120253Z-001\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\90507\Masaüstü\TekstilStokProjesi-20221223T120253Z-001\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.Form1.resources
+C:\Users\90507\Masaüstü\TekstilStokProjesi-20221223T120253Z-001\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.Properties.Resources.resources
+C:\Users\90507\Masaüstü\TekstilStokProjesi-20221223T120253Z-001\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.stok.resources
+C:\Users\90507\Masaüstü\TekstilStokProjesi-20221223T120253Z-001\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.csproj.GenerateResource.cache
+C:\Users\90507\Masaüstü\TekstilStokProjesi-20221223T120253Z-001\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.csproj.CoreCompileInputs.cache
+C:\Users\90507\Masaüstü\TekstilStokProjesi-20221223T120253Z-001\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.exe
+C:\Users\90507\Masaüstü\TekstilStokProjesi-20221223T120253Z-001\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.pdb
+C:\Users\MuratBayraktar\Desktop\TekstilStokProjesi-20221223T120253Z-001-20221225T110135Z-001\TekstilStokProjesi-20221223T120253Z-001\TekstilStokProjesi\TekstilStokProjesi\bin\Debug\TekstilStokProjesi.exe.config
+C:\Users\MuratBayraktar\Desktop\TekstilStokProjesi-20221223T120253Z-001-20221225T110135Z-001\TekstilStokProjesi-20221223T120253Z-001\TekstilStokProjesi\TekstilStokProjesi\bin\Debug\TekstilStokProjesi.exe
+C:\Users\MuratBayraktar\Desktop\TekstilStokProjesi-20221223T120253Z-001-20221225T110135Z-001\TekstilStokProjesi-20221223T120253Z-001\TekstilStokProjesi\TekstilStokProjesi\bin\Debug\TekstilStokProjesi.pdb
+C:\Users\MuratBayraktar\Desktop\TekstilStokProjesi-20221223T120253Z-001-20221225T110135Z-001\TekstilStokProjesi-20221223T120253Z-001\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.csproj.AssemblyReference.cache
+C:\Users\MuratBayraktar\Desktop\TekstilStokProjesi-20221223T120253Z-001-20221225T110135Z-001\TekstilStokProjesi-20221223T120253Z-001\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\MuratBayraktar\Desktop\TekstilStokProjesi-20221223T120253Z-001-20221225T110135Z-001\TekstilStokProjesi-20221223T120253Z-001\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.Form1.resources
+C:\Users\MuratBayraktar\Desktop\TekstilStokProjesi-20221223T120253Z-001-20221225T110135Z-001\TekstilStokProjesi-20221223T120253Z-001\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.Properties.Resources.resources
+C:\Users\MuratBayraktar\Desktop\TekstilStokProjesi-20221223T120253Z-001-20221225T110135Z-001\TekstilStokProjesi-20221223T120253Z-001\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.stok.resources
+C:\Users\MuratBayraktar\Desktop\TekstilStokProjesi-20221223T120253Z-001-20221225T110135Z-001\TekstilStokProjesi-20221223T120253Z-001\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.csproj.GenerateResource.cache
+C:\Users\MuratBayraktar\Desktop\TekstilStokProjesi-20221223T120253Z-001-20221225T110135Z-001\TekstilStokProjesi-20221223T120253Z-001\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.csproj.CoreCompileInputs.cache
+C:\Users\MuratBayraktar\Desktop\TekstilStokProjesi-20221223T120253Z-001-20221225T110135Z-001\TekstilStokProjesi-20221223T120253Z-001\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.exe
+C:\Users\MuratBayraktar\Desktop\TekstilStokProjesi-20221223T120253Z-001-20221225T110135Z-001\TekstilStokProjesi-20221223T120253Z-001\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.pdb
+C:\Users\90507\Masaüstü\TekstilStokProjesi\TekstilStokProjesi\bin\Debug\TekstilStokProjesi.exe.config
+C:\Users\90507\Masaüstü\TekstilStokProjesi\TekstilStokProjesi\bin\Debug\TekstilStokProjesi.exe
+C:\Users\90507\Masaüstü\TekstilStokProjesi\TekstilStokProjesi\bin\Debug\TekstilStokProjesi.pdb
+C:\Users\90507\Masaüstü\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.csproj.AssemblyReference.cache
+C:\Users\90507\Masaüstü\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\90507\Masaüstü\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.Properties.Resources.resources
+C:\Users\90507\Masaüstü\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.stok.resources
+C:\Users\90507\Masaüstü\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.csproj.GenerateResource.cache
+C:\Users\90507\Masaüstü\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.csproj.CoreCompileInputs.cache
+C:\Users\90507\Masaüstü\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.exe
+C:\Users\90507\Masaüstü\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.pdb
+C:\Users\MuratBayraktar\Desktop\TekstilStokProjesi\TekstilStokProjesi\bin\Debug\TekstilStokProjesi.exe.config
+C:\Users\MuratBayraktar\Desktop\TekstilStokProjesi\TekstilStokProjesi\bin\Debug\TekstilStokProjesi.exe
+C:\Users\MuratBayraktar\Desktop\TekstilStokProjesi\TekstilStokProjesi\bin\Debug\TekstilStokProjesi.pdb
+C:\Users\MuratBayraktar\Desktop\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.csproj.AssemblyReference.cache
+C:\Users\MuratBayraktar\Desktop\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\MuratBayraktar\Desktop\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.Properties.Resources.resources
+C:\Users\MuratBayraktar\Desktop\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.stok.resources
+C:\Users\MuratBayraktar\Desktop\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.csproj.GenerateResource.cache
+C:\Users\MuratBayraktar\Desktop\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.csproj.CoreCompileInputs.cache
+C:\Users\MuratBayraktar\Desktop\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.exe
+C:\Users\MuratBayraktar\Desktop\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.pdb
+C:\Users\MuratBayraktar\Desktop\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.UrunEkle.resources
+C:\Users\MuratBayraktar\Desktop\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.kumas.resources
+D:\C# FORM\OOP Ödev\TekstilStokProjesi\TekstilStokProjesi\bin\Debug\TekstilStokProjesi.exe.config
+D:\C# FORM\OOP Ödev\TekstilStokProjesi\TekstilStokProjesi\bin\Debug\TekstilStokProjesi.exe
+D:\C# FORM\OOP Ödev\TekstilStokProjesi\TekstilStokProjesi\bin\Debug\TekstilStokProjesi.pdb
+D:\C# FORM\OOP Ödev\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.csproj.AssemblyReference.cache
+D:\C# FORM\OOP Ödev\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.csproj.SuggestedBindingRedirects.cache
+D:\C# FORM\OOP Ödev\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.kumas.resources
+D:\C# FORM\OOP Ödev\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.Properties.Resources.resources
+D:\C# FORM\OOP Ödev\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.stok.resources
+D:\C# FORM\OOP Ödev\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.UrunEkle.resources
+D:\C# FORM\OOP Ödev\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.csproj.GenerateResource.cache
+D:\C# FORM\OOP Ödev\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.csproj.CoreCompileInputs.cache
+D:\C# FORM\OOP Ödev\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.exe
+D:\C# FORM\OOP Ödev\TekstilStokProjesi\TekstilStokProjesi\obj\Debug\TekstilStokProjesi.pdb
